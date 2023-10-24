@@ -1,0 +1,40 @@
+REM Well guys this is my first script! It will open up settings and turn on High Contrast mode idk what you can use it for but it is fun to try out! (works on windows 11 22H2) Credits: maxigames. On discord.
+GUI r
+DELAY 1000
+STRING ms-settings:
+TAB
+ENTER
+DELAY 1000
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+ENTER
+DELAY 1000
+TAB
+TAB
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+ENTER
+DELAY 1000
+TAB 
+SPACE
+TAB 
+TAB
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DELAY 1000
+SPACE
+ALT F4
